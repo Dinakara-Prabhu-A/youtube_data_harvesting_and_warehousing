@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/vijayalakshmi/Documents/Data Science Project/venv/bin/python3" "$0" "$@"
+'''exec' "/Users/vijayalakshmi/Documents/Data Science Project/youtube_data_harvesting_and_warehousing/venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
